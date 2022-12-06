@@ -1,0 +1,80 @@
+.button0 {
+    background-color: #787878;
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 300px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button0:hover {
+    background-color: #4fbc47;
+    color: white;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: url('images/Floor.png') center no-repeat;
+}
+
+.button01{
+    background-color: #787878;
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 640px;
+    margin-top: 10px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button01:hover {
+    background-color: #fd3131;
+    color: white;
+}
+
+.vidos{
+    margin-left: 550px;
+    margin-top: 1px;
+}
+
+.youtube{
+    margin-top: -50px;
+    margin-left: 550px;
+}
+
+.aud{
+    margin-left: 1200px;
+    margin-top: -70px;
+}
+
+.button2{
+    background-color: #787878;
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 400px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button2:hover{
+    background-color: rgb(77, 77, 186);
+    color: white;
+}
